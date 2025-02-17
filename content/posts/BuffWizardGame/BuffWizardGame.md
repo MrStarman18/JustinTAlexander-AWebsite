@@ -3,7 +3,7 @@ date = '2024-11-25T10:35:33-06:00'
 draft = false
 title = 'Dungeons and Donuts'
 +++
-![main](/images/vidogam.png)
+![main](static/images/vidogam.png)
 
 # Description
 *Dungeons and Donuts* is an original first-person 3D video game that's divided into combat-focused and platforming-focused gameplay based on its size-changing mechanic. It was developed using Unreal Engine 5.
