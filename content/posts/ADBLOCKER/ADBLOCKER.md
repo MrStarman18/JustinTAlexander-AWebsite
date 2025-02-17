@@ -3,7 +3,7 @@ date = '2024-11-25T10:35:33-06:00'
 draft = false
 title = 'AD BLOCKER: An Action Puzzle Game'
 +++
-![main](JustinTAlexander-AWebsite/images/MainCapsule.PNG)
+![main](/images/MainCapsule.PNG)
 
 # Description
 *AD BLOCKER* is a fast-paced match-3 puzzler that’s built for head-to-head gameplay between 0-2 players. It was developed using Godot Engine 4.
@@ -24,4 +24,4 @@ On this project, I am credited as:
 - Story Author
 - Artist
 
-![lib](JustinTAlexander-AWebsite/images/LibraryCapsule.PNG)
+![lib](./images/LibraryCapsule.PNG)
