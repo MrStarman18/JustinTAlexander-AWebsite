@@ -1,3 +1,22 @@
-baseURL = 'https://example.org/'
+baseURL = 'https://jtalex.com/'
 languageCode = 'en-us'
-title = 'My New Hugo Site'
+title = "Justin T. Alexander: A Website"
+theme = 'ananke'
+
+[params.ananke.social]
+[ananke.social.follow]
+new_window_icon = true
+networks = [ "instagram",
+"twitter", "linkedin", "tiktok"]
+
+[params.ananke.social.instagram]
+username = "MrStarman18"
+
+[params.ananke.social.twitter]
+username = "MrStarman18"
+
+[params.ananke.social.linkedin]
+username = "Justin T. Alexander"
+
+[params.ananke.social.tiktok]
+username = "MrStarman18"
