@@ -3,7 +3,7 @@ date = '2024-01-26T10:35:33-06:00'
 draft = false
 title = 'Snogbert'
 +++
-![main](/images/SnogbertDemo.PNG)
+![main](images/SnogbertDemo.PNG)
 
 # Description
 "Legends tell of a mystical die named Snogbert...
@@ -27,4 +27,4 @@ On this project, I am credited as:
 - Story Author
 - Artist
 
-![](/images/TimeToGetSnoggy.png)
+![](images/TimeToGetSnoggy.png)
