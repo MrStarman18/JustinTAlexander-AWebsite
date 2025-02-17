@@ -1,4 +1,5 @@
-baseURL = 'https://jtalex.com/'
+# baseURL = 'https://jtalex.com/'
+baseURL = 'https://mrstarman18.github.io/JustinTAlexander-AWebsite/'
 languageCode = 'en-us'
 title = "Justin T. Alexander: A Website"
 theme = 'ananke'
