@@ -1,5 +1,5 @@
 +++
-date = '2025-5-3T10:35:33-06:00'
+date = '2025-05-03T10:35:33-06:00'
 draft = true
 title = 'Guns of Salvation'
 +++

@@ -6,14 +6,14 @@
     <description>Recent content in Home on Justin T. Alexander: A Website</description>
     <generator>Hugo</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 25 Nov 2024 10:35:33 -0600</lastBuildDate>
+    <lastBuildDate>Fri, 28 Feb 2025 10:35:33 -0600</lastBuildDate>
     <atom:link href="http://localhost:1313/JustinTAlexander-AWebsite/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>AD BLOCKER: An Action Puzzle Game</title>
       <link>http://localhost:1313/JustinTAlexander-AWebsite/posts/adblocker/adblocker/</link>
-      <pubDate>Mon, 25 Nov 2024 10:35:33 -0600</pubDate>
+      <pubDate>Fri, 28 Feb 2025 10:35:33 -0600</pubDate>
       <guid>http://localhost:1313/JustinTAlexander-AWebsite/posts/adblocker/adblocker/</guid>
-      <description>&lt;p&gt;&lt;img src=&#34;images/MainCapsule.PNG&#34; alt=&#34;main&#34;&gt;&lt;/p&gt;&#xA;&lt;h1 id=&#34;description&#34;&gt;Description&lt;/h1&gt;&#xA;&lt;p&gt;&lt;em&gt;AD BLOCKER&lt;/em&gt; is a fast-paced match-3 puzzler that’s built for head-to-head gameplay between 0-2 players. It was developed using Godot Engine 4.&lt;/p&gt;&#xA;&lt;p&gt;&lt;em&gt;AD BLOCKER&lt;/em&gt; features grid-based gravity and a unique linear garbage system. With a low skill floor and high skill ceiling, everyone will be able to play at their own pace. So whether you’re new to the action puzzle scene or a long-time genre fan of games like &lt;em&gt;Panel de Pon&lt;/em&gt; and &lt;em&gt;TETRIS&lt;/em&gt;, &lt;em&gt;AD BLOCKER&lt;/em&gt; has something for you!&lt;/p&gt;</description>
+      <description>&lt;p&gt;&lt;img src=&#34;images/MainCapsule.PNG&#34; alt=&#34;main&#34;&gt;&lt;/p&gt;&#xA;&lt;h1 id=&#34;description&#34;&gt;Description&lt;/h1&gt;&#xA;&lt;p&gt;&lt;em&gt;AD BLOCKER&lt;/em&gt; is a fast-paced match-3 puzzler that’s built for head-to-head gameplay between 0-2 players. It was developed using Godot Engine 4 and released to Steam on 2/28/2025.&lt;/p&gt;&#xA;&lt;p&gt;&lt;em&gt;AD BLOCKER&lt;/em&gt; features grid-based gravity and a unique linear garbage system. With a low skill floor and high skill ceiling, everyone will be able to play at their own pace. So whether you’re new to the action puzzle scene or a long-time genre fan of games like &lt;em&gt;Panel de Pon&lt;/em&gt; and &lt;em&gt;TETRIS&lt;/em&gt;, &lt;em&gt;AD BLOCKER&lt;/em&gt; has something for you!&lt;/p&gt;</description>
     </item>
     <item>
       <title>Dungeons and Donuts</title>
@@ -55,7 +55,7 @@
       <link>http://localhost:1313/JustinTAlexander-AWebsite/posts/datawarehouse/datawarehouse/</link>
       <pubDate>Fri, 05 May 2023 10:35:33 -0600</pubDate>
       <guid>http://localhost:1313/JustinTAlexander-AWebsite/posts/datawarehouse/datawarehouse/</guid>
-      <description>&lt;p&gt;&lt;img src=&#34;blog/images/DataWarehouse.png&#34; alt=&#34;main&#34;&gt;&lt;/p&gt;&#xA;&lt;h1 id=&#34;description&#34;&gt;Description&lt;/h1&gt;&#xA;&lt;p&gt;The Lunatic Labs Data Warehouse is a data storage application developed for internal use by Lipscomb University, especially on mission trips.&lt;/p&gt;&#xA;&lt;p&gt;My work was primarily focused on the Warehouse&amp;rsquo;s user-facing interface, a library of Python functions, using JSON and Pycurl libraries to communicate with the server.&lt;/p&gt;&#xA;&lt;p&gt;Github: &lt;a href=&#34;https://github.com/Lunatic-Labs/DataWarehouse&#34;&gt;https://github.com/Lunatic-Labs/DataWarehouse&lt;/a&gt;&lt;/p&gt;&#xA;&lt;h1 id=&#34;credits&#34;&gt;Credits&lt;/h1&gt;&#xA;&lt;p&gt;Developed by the Data Dogs, a team of 8 students, as part of the course Software Studio.&lt;/p&gt;&#xA;&lt;p&gt;On this project, I am credited as:&lt;/p&gt;</description>
+      <description>&lt;p&gt;&lt;img src=&#34;images/DataWarehouse.png&#34; alt=&#34;main&#34;&gt;&lt;/p&gt;&#xA;&lt;h1 id=&#34;description&#34;&gt;Description&lt;/h1&gt;&#xA;&lt;p&gt;The Lunatic Labs Data Warehouse is a data storage application developed for internal use by Lipscomb University, especially on mission trips.&lt;/p&gt;&#xA;&lt;p&gt;My work was primarily focused on the Warehouse&amp;rsquo;s user-facing interface, a library of Python functions, using JSON and Pycurl libraries to communicate with the server.&lt;/p&gt;&#xA;&lt;p&gt;Github: &lt;a href=&#34;https://github.com/Lunatic-Labs/DataWarehouse&#34;&gt;https://github.com/Lunatic-Labs/DataWarehouse&lt;/a&gt;&lt;/p&gt;&#xA;&lt;h1 id=&#34;credits&#34;&gt;Credits&lt;/h1&gt;&#xA;&lt;p&gt;Developed by the Data Dogs, a team of 8 students, as part of the course Software Studio.&lt;/p&gt;&#xA;&lt;p&gt;On this project, I am credited as:&lt;/p&gt;</description>
     </item>
     <item>
       <title>Dog Dash</title>
