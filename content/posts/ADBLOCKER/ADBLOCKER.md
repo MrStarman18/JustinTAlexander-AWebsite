@@ -1,12 +1,12 @@
 +++
-date = '2024-11-25T10:35:33-06:00'
+date = '2025-2-28T10:35:33-06:00'
 draft = false
 title = 'AD BLOCKER: An Action Puzzle Game'
 +++
 ![main](images/MainCapsule.PNG)
 
 # Description
-*AD BLOCKER* is a fast-paced match-3 puzzler that’s built for head-to-head gameplay between 0-2 players. It was developed using Godot Engine 4.
+*AD BLOCKER* is a fast-paced match-3 puzzler that’s built for head-to-head gameplay between 0-2 players. It was developed using Godot Engine 4 and released to Steam on 2/28/2025.
 
 *AD BLOCKER* features grid-based gravity and a unique linear garbage system. With a low skill floor and high skill ceiling, everyone will be able to play at their own pace. So whether you’re new to the action puzzle scene or a long-time genre fan of games like *Panel de Pon* and *TETRIS*, *AD BLOCKER* has something for you!
 
