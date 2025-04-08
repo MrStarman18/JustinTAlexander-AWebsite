@@ -2,38 +2,38 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://localhost:1313/</loc>
+    <loc>http://localhost:1313/JustinTAlexander-AWebsite/</loc>
     <lastmod>2024-11-25T11:03:13-06:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/posts/adblocker/adblocker/</loc>
+    <loc>http://localhost:1313/JustinTAlexander-AWebsite/posts/adblocker/adblocker/</loc>
     <lastmod>2024-11-25T10:35:33-06:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/posts/buffwizardgame/buffwizardgame/</loc>
+    <loc>http://localhost:1313/JustinTAlexander-AWebsite/posts/buffwizardgame/buffwizardgame/</loc>
     <lastmod>2024-11-25T10:35:33-06:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/posts/luke/luke/</loc>
+    <loc>http://localhost:1313/JustinTAlexander-AWebsite/posts/luke/luke/</loc>
     <lastmod>2024-11-25T10:35:33-06:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/posts/</loc>
+    <loc>http://localhost:1313/JustinTAlexander-AWebsite/posts/</loc>
     <lastmod>2024-11-25T10:35:33-06:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/posts/snogbert/snogbert/</loc>
+    <loc>http://localhost:1313/JustinTAlexander-AWebsite/posts/snogbert/snogbert/</loc>
     <lastmod>2024-01-26T10:35:33-06:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/posts/fnf/fnf/</loc>
+    <loc>http://localhost:1313/JustinTAlexander-AWebsite/posts/fnf/fnf/</loc>
     <lastmod>2023-12-11T10:35:33-06:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/posts/deadseasquirrelsmania/dssm/</loc>
+    <loc>http://localhost:1313/JustinTAlexander-AWebsite/posts/deadseasquirrelsmania/dssm/</loc>
     <lastmod>2023-12-09T10:35:33-06:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/posts/datawarehouse/datawarehouse/</loc>
+    <loc>http://localhost:1313/JustinTAlexander-AWebsite/posts/datawarehouse/datawarehouse/</loc>
     <lastmod>2023-05-05T10:35:33-06:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/posts/dogdash/dogdash/</loc>
+    <loc>http://localhost:1313/JustinTAlexander-AWebsite/posts/dogdash/dogdash/</loc>
     <lastmod>2022-12-09T10:35:33-06:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/categories/</loc>
+    <loc>http://localhost:1313/JustinTAlexander-AWebsite/categories/</loc>
   </url><url>
-    <loc>http://localhost:1313/tags/</loc>
+    <loc>http://localhost:1313/JustinTAlexander-AWebsite/tags/</loc>
   </url>
 </urlset>

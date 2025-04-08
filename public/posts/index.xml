@@ -2,67 +2,67 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Posts on Justin T. Alexander: A Website</title>
-    <link>http://localhost:1313/posts/</link>
+    <link>http://localhost:1313/JustinTAlexander-AWebsite/posts/</link>
     <description>Recent content in Posts on Justin T. Alexander: A Website</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Mon, 25 Nov 2024 10:35:33 -0600</lastBuildDate>
-    <atom:link href="http://localhost:1313/posts/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/JustinTAlexander-AWebsite/posts/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>AD BLOCKER: An Action Puzzle Game</title>
-      <link>http://localhost:1313/posts/adblocker/adblocker/</link>
+      <link>http://localhost:1313/JustinTAlexander-AWebsite/posts/adblocker/adblocker/</link>
       <pubDate>Mon, 25 Nov 2024 10:35:33 -0600</pubDate>
-      <guid>http://localhost:1313/posts/adblocker/adblocker/</guid>
-      <description>&lt;p&gt;&lt;img src=&#34;http://localhost:1313/images/MainCapsule.PNG&#34; alt=&#34;main&#34;&gt;&lt;/p&gt;&#xA;&lt;h1 id=&#34;description&#34;&gt;Description&lt;/h1&gt;&#xA;&lt;p&gt;&lt;em&gt;AD BLOCKER&lt;/em&gt; is a fast-paced match-3 puzzler that’s built for head-to-head gameplay between 0-2 players. It was developed using Godot Engine 4.&lt;/p&gt;&#xA;&lt;p&gt;&lt;em&gt;AD BLOCKER&lt;/em&gt; features grid-based gravity and a unique linear garbage system. With a low skill floor and high skill ceiling, everyone will be able to play at their own pace. So whether you’re new to the action puzzle scene or a long-time genre fan of games like &lt;em&gt;Panel de Pon&lt;/em&gt; and &lt;em&gt;TETRIS&lt;/em&gt;, &lt;em&gt;AD BLOCKER&lt;/em&gt; has something for you!&lt;/p&gt;</description>
+      <guid>http://localhost:1313/JustinTAlexander-AWebsite/posts/adblocker/adblocker/</guid>
+      <description>&lt;p&gt;&lt;img src=&#34;images/MainCapsule.PNG&#34; alt=&#34;main&#34;&gt;&lt;/p&gt;&#xA;&lt;h1 id=&#34;description&#34;&gt;Description&lt;/h1&gt;&#xA;&lt;p&gt;&lt;em&gt;AD BLOCKER&lt;/em&gt; is a fast-paced match-3 puzzler that’s built for head-to-head gameplay between 0-2 players. It was developed using Godot Engine 4.&lt;/p&gt;&#xA;&lt;p&gt;&lt;em&gt;AD BLOCKER&lt;/em&gt; features grid-based gravity and a unique linear garbage system. With a low skill floor and high skill ceiling, everyone will be able to play at their own pace. So whether you’re new to the action puzzle scene or a long-time genre fan of games like &lt;em&gt;Panel de Pon&lt;/em&gt; and &lt;em&gt;TETRIS&lt;/em&gt;, &lt;em&gt;AD BLOCKER&lt;/em&gt; has something for you!&lt;/p&gt;</description>
     </item>
     <item>
       <title>Dungeons and Donuts</title>
-      <link>http://localhost:1313/posts/buffwizardgame/buffwizardgame/</link>
+      <link>http://localhost:1313/JustinTAlexander-AWebsite/posts/buffwizardgame/buffwizardgame/</link>
       <pubDate>Mon, 25 Nov 2024 10:35:33 -0600</pubDate>
-      <guid>http://localhost:1313/posts/buffwizardgame/buffwizardgame/</guid>
-      <description>&lt;p&gt;&lt;img src=&#34;http://localhost:1313/images/vidogam.png&#34; alt=&#34;main&#34;&gt;&lt;/p&gt;&#xA;&lt;h1 id=&#34;description&#34;&gt;Description&lt;/h1&gt;&#xA;&lt;p&gt;&lt;em&gt;Dungeons and Donuts&lt;/em&gt; is an original first-person 3D video game that&amp;rsquo;s divided into combat-focused and platforming-focused gameplay based on its size-changing mechanic. It was developed using Unreal Engine 5.&lt;/p&gt;&#xA;&lt;p&gt;Enter the sewers as a buff wizard, pummeling foes in combat and moving heavy obstacles via telekinesis. Find the magical donuts contained in the sewers&amp;rsquo; depths. Escape the sewers as a smaller (weaker?), magic-free version of yourself.&lt;/p&gt;&#xA;&lt;p&gt;&lt;em&gt;Dungeons and Donuts&lt;/em&gt; was released to itch.io on 2/5/2025.&#xA;Get it on itch.io: &lt;a href=&#34;https://lipscomb-gameartanddesign.itch.io/donuts-dungeons&#34;&gt;https://lipscomb-gameartanddesign.itch.io/donuts-dungeons&lt;/a&gt;&lt;/p&gt;</description>
+      <guid>http://localhost:1313/JustinTAlexander-AWebsite/posts/buffwizardgame/buffwizardgame/</guid>
+      <description>&lt;p&gt;&lt;img src=&#34;images/vidogam.png&#34; alt=&#34;main&#34;&gt;&lt;/p&gt;&#xA;&lt;h1 id=&#34;description&#34;&gt;Description&lt;/h1&gt;&#xA;&lt;p&gt;&lt;em&gt;Dungeons and Donuts&lt;/em&gt; is an original first-person 3D video game that&amp;rsquo;s divided into combat-focused and platforming-focused gameplay based on its size-changing mechanic. It was developed using Unreal Engine 5.&lt;/p&gt;&#xA;&lt;p&gt;Enter the sewers as a buff wizard, pummeling foes in combat and moving heavy obstacles via telekinesis. Find the magical donuts contained in the sewers&amp;rsquo; depths. Escape the sewers as a smaller (weaker?), magic-free version of yourself.&lt;/p&gt;&#xA;&lt;p&gt;&lt;em&gt;Dungeons and Donuts&lt;/em&gt; was released to itch.io on 2/5/2025.&#xA;Get it on itch.io: &lt;a href=&#34;https://lipscomb-gameartanddesign.itch.io/donuts-dungeons&#34;&gt;https://lipscomb-gameartanddesign.itch.io/donuts-dungeons&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
       <title>Lipscomb University Kiosk Experience</title>
-      <link>http://localhost:1313/posts/luke/luke/</link>
+      <link>http://localhost:1313/JustinTAlexander-AWebsite/posts/luke/luke/</link>
       <pubDate>Mon, 25 Nov 2024 10:35:33 -0600</pubDate>
-      <guid>http://localhost:1313/posts/luke/luke/</guid>
-      <description>&lt;p&gt;&lt;img src=&#34;http://localhost:1313/images/LUKEAnnouncement.png&#34; alt=&#34;main&#34;&gt;&lt;/p&gt;&#xA;&lt;h1 id=&#34;description&#34;&gt;Description&lt;/h1&gt;&#xA;&lt;p&gt;The Lipscomb University Kiosk Experience (L.U.K.E.) is a multi-screen kiosk designed to inform and engage. From answering visitor questions to providing fun, interactive experiences, this cutting-edge system showcases the power of technology in enhancing campus navigation and exploration.&lt;/p&gt;&#xA;&lt;p&gt;L.U.K.E. is built on Processing 4 Java. Work was done to integrate technologies such as Large-Language Model AI. The kiosk was deployed in Lipscomb&amp;rsquo;s Fields Engineering Center in November 2024.&lt;/p&gt;</description>
+      <guid>http://localhost:1313/JustinTAlexander-AWebsite/posts/luke/luke/</guid>
+      <description>&lt;p&gt;&lt;img src=&#34;images/LUKEAnnouncement.png&#34; alt=&#34;main&#34;&gt;&lt;/p&gt;&#xA;&lt;h1 id=&#34;description&#34;&gt;Description&lt;/h1&gt;&#xA;&lt;p&gt;The Lipscomb University Kiosk Experience (L.U.K.E.) is a multi-screen kiosk designed to inform and engage. From answering visitor questions to providing fun, interactive experiences, this cutting-edge system showcases the power of technology in enhancing campus navigation and exploration.&lt;/p&gt;&#xA;&lt;p&gt;L.U.K.E. is built on Processing 4 Java. Work was done to integrate technologies such as Large-Language Model AI. The kiosk was deployed in Lipscomb&amp;rsquo;s Fields Engineering Center in November 2024.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Snogbert</title>
-      <link>http://localhost:1313/posts/snogbert/snogbert/</link>
+      <link>http://localhost:1313/JustinTAlexander-AWebsite/posts/snogbert/snogbert/</link>
       <pubDate>Fri, 26 Jan 2024 10:35:33 -0600</pubDate>
-      <guid>http://localhost:1313/posts/snogbert/snogbert/</guid>
-      <description>&lt;p&gt;&lt;img src=&#34;http://localhost:1313/images/SnogbertDemo.PNG&#34; alt=&#34;main&#34;&gt;&lt;/p&gt;&#xA;&lt;h1 id=&#34;description&#34;&gt;Description&lt;/h1&gt;&#xA;&lt;p&gt;&amp;ldquo;Legends tell of a mystical die named Snogbert&amp;hellip;&#xA;Does he have infinite sides, or only one?&amp;rdquo;&lt;/p&gt;&#xA;&lt;p&gt;&lt;em&gt;Snogbert&lt;/em&gt; is a 2D platformer with characteristics of the roguelike/roguelite and arcade genres. It stars Snogbert–a mythical infinite-sided die–and his quest to return home after falling into a cave network inhabited by other sentient dice.&lt;/p&gt;&#xA;&lt;p&gt;The game features a “die roll” system that randomly assigns the criteria to complete each level. So, while the same set of levels is traversed with each run, players are encouraged to think about them differently every time.&lt;/p&gt;</description>
+      <guid>http://localhost:1313/JustinTAlexander-AWebsite/posts/snogbert/snogbert/</guid>
+      <description>&lt;p&gt;&lt;img src=&#34;images/SnogbertDemo.PNG&#34; alt=&#34;main&#34;&gt;&lt;/p&gt;&#xA;&lt;h1 id=&#34;description&#34;&gt;Description&lt;/h1&gt;&#xA;&lt;p&gt;&amp;ldquo;Legends tell of a mystical die named Snogbert&amp;hellip;&#xA;Does he have infinite sides, or only one?&amp;rdquo;&lt;/p&gt;&#xA;&lt;p&gt;&lt;em&gt;Snogbert&lt;/em&gt; is a 2D platformer with characteristics of the roguelike/roguelite and arcade genres. It stars Snogbert–a mythical infinite-sided die–and his quest to return home after falling into a cave network inhabited by other sentient dice.&lt;/p&gt;&#xA;&lt;p&gt;The game features a “die roll” system that randomly assigns the criteria to complete each level. So, while the same set of levels is traversed with each run, players are encouraged to think about them differently every time.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Friday Night Funkin mods</title>
-      <link>http://localhost:1313/posts/fnf/fnf/</link>
+      <link>http://localhost:1313/JustinTAlexander-AWebsite/posts/fnf/fnf/</link>
       <pubDate>Mon, 11 Dec 2023 10:35:33 -0600</pubDate>
-      <guid>http://localhost:1313/posts/fnf/fnf/</guid>
-      <description>&lt;p&gt;Some of my earliest development projects were mods for the game Friday Night Funkin&amp;rsquo;. Find the information for each of those compiled here, in chronological order.&lt;/p&gt;&#xA;&lt;p&gt;&lt;img src=&#34;http://localhost:1313/images/BusinessAngles.jpg&#34; alt=&#34;BA&#34;&gt;&lt;/p&gt;&#xA;&lt;h1 id=&#34;business-angles-fnf-dave-mod&#34;&gt;Business Angles: FNF Dave Mod&lt;/h1&gt;&#xA;&lt;h2 id=&#34;description&#34;&gt;Description&lt;/h2&gt;&#xA;&lt;p&gt;Looking for a rap battle, Boyfriend and Girlfriend have found themselves outside of Pythagoras Corp., an office building staffed entirely by triangles! It doesn&amp;rsquo;t take long for one hopeful salesman to step up to the challenge, sizing them up as an easy contract. Will Boyfriend be able to outperform this pint-sized pen-pusher? Or will he give in to the tricks of the trade?&lt;/p&gt;</description>
+      <guid>http://localhost:1313/JustinTAlexander-AWebsite/posts/fnf/fnf/</guid>
+      <description>&lt;p&gt;Some of my earliest development projects were mods for the game Friday Night Funkin&amp;rsquo;. Find the information for each of those compiled here, in chronological order.&lt;/p&gt;&#xA;&lt;p&gt;&lt;img src=&#34;images/BusinessAngles.jpg&#34; alt=&#34;BA&#34;&gt;&lt;/p&gt;&#xA;&lt;h1 id=&#34;business-angles-fnf-dave-mod&#34;&gt;Business Angles: FNF Dave Mod&lt;/h1&gt;&#xA;&lt;h2 id=&#34;description&#34;&gt;Description&lt;/h2&gt;&#xA;&lt;p&gt;Looking for a rap battle, Boyfriend and Girlfriend have found themselves outside of Pythagoras Corp., an office building staffed entirely by triangles! It doesn&amp;rsquo;t take long for one hopeful salesman to step up to the challenge, sizing them up as an easy contract. Will Boyfriend be able to outperform this pint-sized pen-pusher? Or will he give in to the tricks of the trade?&lt;/p&gt;</description>
     </item>
     <item>
       <title>Dead Sea Squirrels Mania</title>
-      <link>http://localhost:1313/posts/deadseasquirrelsmania/dssm/</link>
+      <link>http://localhost:1313/JustinTAlexander-AWebsite/posts/deadseasquirrelsmania/dssm/</link>
       <pubDate>Sat, 09 Dec 2023 10:35:33 -0600</pubDate>
-      <guid>http://localhost:1313/posts/deadseasquirrelsmania/dssm/</guid>
-      <description>&lt;p&gt;&lt;img src=&#34;http://localhost:1313/images/DSSM.png&#34; alt=&#34;main&#34;&gt;&lt;/p&gt;&#xA;&lt;h1 id=&#34;description&#34;&gt;Description&lt;/h1&gt;&#xA;&lt;p&gt;&lt;em&gt;DSSM&lt;/em&gt; is a basket-catcher game prototype created in collaboration with the creators of the &lt;em&gt;Dead Sea Squirrels&lt;/em&gt; television show/book series. It was designed with the pitch of creating a mobile game based on the series.&lt;/p&gt;&#xA;&lt;p&gt;&lt;em&gt;DSSM&lt;/em&gt; follows Merle and Pearl, the show&amp;rsquo;s main characters, as they harvest acorns and chicken nuggets from the treetops and learn some Scripture along the way.&lt;/p&gt;&#xA;&lt;h1 id=&#34;credits&#34;&gt;Credits&lt;/h1&gt;&#xA;&lt;p&gt;Developed by Lipscomb University’s Game Art and Design Team, a team of 10 Lipscomb students from various majors.&lt;/p&gt;</description>
+      <guid>http://localhost:1313/JustinTAlexander-AWebsite/posts/deadseasquirrelsmania/dssm/</guid>
+      <description>&lt;p&gt;&lt;img src=&#34;images/DSSM.png&#34; alt=&#34;main&#34;&gt;&lt;/p&gt;&#xA;&lt;h1 id=&#34;description&#34;&gt;Description&lt;/h1&gt;&#xA;&lt;p&gt;&lt;em&gt;DSSM&lt;/em&gt; is a basket-catcher game prototype created in collaboration with the creators of the &lt;em&gt;Dead Sea Squirrels&lt;/em&gt; television show/book series. It was designed with the pitch of creating a mobile game based on the series.&lt;/p&gt;&#xA;&lt;p&gt;&lt;em&gt;DSSM&lt;/em&gt; follows Merle and Pearl, the show&amp;rsquo;s main characters, as they harvest acorns and chicken nuggets from the treetops and learn some Scripture along the way.&lt;/p&gt;&#xA;&lt;p&gt;The game was developed using Unreal Engine 5. Development was paused after completing a proof of concept.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Data Warehouse</title>
-      <link>http://localhost:1313/posts/datawarehouse/datawarehouse/</link>
+      <link>http://localhost:1313/JustinTAlexander-AWebsite/posts/datawarehouse/datawarehouse/</link>
       <pubDate>Fri, 05 May 2023 10:35:33 -0600</pubDate>
-      <guid>http://localhost:1313/posts/datawarehouse/datawarehouse/</guid>
-      <description>&lt;p&gt;&lt;img src=&#34;http://localhost:1313/images/DataWarehouse.png&#34; alt=&#34;main&#34;&gt;&lt;/p&gt;&#xA;&lt;h1 id=&#34;description&#34;&gt;Description&lt;/h1&gt;&#xA;&lt;p&gt;The Lunatic Labs Data Warehouse is a data storage application developed for internal use by Lipscomb University, especially on mission trips.&lt;/p&gt;&#xA;&lt;p&gt;My work was primarily focused on the Warehouse&amp;rsquo;s user-facing interface, a library of Python functions, using JSON and Pycurl libraries to communicate with the server.&lt;/p&gt;&#xA;&lt;p&gt;Github: &lt;a href=&#34;https://github.com/Lunatic-Labs/DataWarehouse&#34;&gt;https://github.com/Lunatic-Labs/DataWarehouse&lt;/a&gt;&lt;/p&gt;&#xA;&lt;h1 id=&#34;credits&#34;&gt;Credits&lt;/h1&gt;&#xA;&lt;p&gt;Developed by the Data Dogs, a team of 8 students, as part of the course Software Studio.&lt;/p&gt;&#xA;&lt;p&gt;On this project, I am credited as:&lt;/p&gt;</description>
+      <guid>http://localhost:1313/JustinTAlexander-AWebsite/posts/datawarehouse/datawarehouse/</guid>
+      <description>&lt;p&gt;&lt;img src=&#34;blog/images/DataWarehouse.png&#34; alt=&#34;main&#34;&gt;&lt;/p&gt;&#xA;&lt;h1 id=&#34;description&#34;&gt;Description&lt;/h1&gt;&#xA;&lt;p&gt;The Lunatic Labs Data Warehouse is a data storage application developed for internal use by Lipscomb University, especially on mission trips.&lt;/p&gt;&#xA;&lt;p&gt;My work was primarily focused on the Warehouse&amp;rsquo;s user-facing interface, a library of Python functions, using JSON and Pycurl libraries to communicate with the server.&lt;/p&gt;&#xA;&lt;p&gt;Github: &lt;a href=&#34;https://github.com/Lunatic-Labs/DataWarehouse&#34;&gt;https://github.com/Lunatic-Labs/DataWarehouse&lt;/a&gt;&lt;/p&gt;&#xA;&lt;h1 id=&#34;credits&#34;&gt;Credits&lt;/h1&gt;&#xA;&lt;p&gt;Developed by the Data Dogs, a team of 8 students, as part of the course Software Studio.&lt;/p&gt;&#xA;&lt;p&gt;On this project, I am credited as:&lt;/p&gt;</description>
     </item>
     <item>
       <title>Dog Dash</title>
-      <link>http://localhost:1313/posts/dogdash/dogdash/</link>
+      <link>http://localhost:1313/JustinTAlexander-AWebsite/posts/dogdash/dogdash/</link>
       <pubDate>Fri, 09 Dec 2022 10:35:33 -0600</pubDate>
-      <guid>http://localhost:1313/posts/dogdash/dogdash/</guid>
-      <description>&lt;p&gt;&lt;img src=&#34;http://localhost:1313/images/DogDash.png&#34; alt=&#34;main&#34;&gt;&lt;/p&gt;&#xA;&lt;h1 id=&#34;description&#34;&gt;Description&lt;/h1&gt;&#xA;&lt;p&gt;Our team of 5 received a challenge: using nothing but SFML with C++, program a fully-functional video game in one semester.&lt;/p&gt;&#xA;&lt;p&gt;Our answer was &lt;em&gt;Dog Dash&lt;/em&gt;, a 2-D infinite dog-walker (inf. runner). Jump over an endless stream of fire hydrants and compete for the high score in this simple-yet-difficult game!&lt;/p&gt;&#xA;&lt;p&gt;Github: &lt;a href=&#34;https://github.com/Lunatic-Labs/Demo1_EpicGamers?tab=readme-ov-file&#34;&gt;https://github.com/Lunatic-Labs/Demo1_EpicGamers?tab=readme-ov-file&lt;/a&gt;&lt;/p&gt;&#xA;&lt;p&gt;Play Dog Dash on our website: &lt;a href=&#34;https://sites.google.com/view/dog-dash-game/home&#34;&gt;https://sites.google.com/view/dog-dash-game/home&lt;/a&gt;&lt;/p&gt;&#xA;&lt;h1 id=&#34;credits&#34;&gt;Credits&lt;/h1&gt;&#xA;&lt;p&gt;Developed by the Epic Gamers, a team of 5 students, as part of the course Software Studio.&lt;/p&gt;</description>
+      <guid>http://localhost:1313/JustinTAlexander-AWebsite/posts/dogdash/dogdash/</guid>
+      <description>&lt;p&gt;&lt;img src=&#34;images/DogDash.png&#34; alt=&#34;main&#34;&gt;&lt;/p&gt;&#xA;&lt;h1 id=&#34;description&#34;&gt;Description&lt;/h1&gt;&#xA;&lt;p&gt;Our team of 5 received a challenge: using nothing but SFML with C++, program a fully-functional video game in one semester.&lt;/p&gt;&#xA;&lt;p&gt;Our answer was &lt;em&gt;Dog Dash&lt;/em&gt;, a 2-D infinite dog-walker (inf. runner). Jump over an endless stream of fire hydrants and compete for the high score in this simple-yet-difficult game!&lt;/p&gt;&#xA;&lt;p&gt;Github: &lt;a href=&#34;https://github.com/Lunatic-Labs/Demo1_EpicGamers?tab=readme-ov-file&#34;&gt;https://github.com/Lunatic-Labs/Demo1_EpicGamers?tab=readme-ov-file&lt;/a&gt;&lt;/p&gt;&#xA;&lt;p&gt;Play Dog Dash on our website: &lt;a href=&#34;https://sites.google.com/view/dog-dash-game/home&#34;&gt;https://sites.google.com/view/dog-dash-game/home&lt;/a&gt;&lt;/p&gt;&#xA;&lt;h1 id=&#34;credits&#34;&gt;Credits&lt;/h1&gt;&#xA;&lt;p&gt;Developed by the Epic Gamers, a team of 5 students, as part of the course Software Studio.&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>
