@@ -6,8 +6,15 @@
     <description>Recent content in Posts on Justin T. Alexander: A Website</description>
     <generator>Hugo</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 28 Feb 2025 10:35:33 -0600</lastBuildDate>
+    <lastBuildDate>Mon, 02 Jun 2025 10:35:33 -0600</lastBuildDate>
     <atom:link href="http://localhost:1313/JustinTAlexander-AWebsite/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Snogbert</title>
+      <link>http://localhost:1313/JustinTAlexander-AWebsite/posts/snogbert/snogbert/</link>
+      <pubDate>Mon, 02 Jun 2025 10:35:33 -0600</pubDate>
+      <guid>http://localhost:1313/JustinTAlexander-AWebsite/posts/snogbert/snogbert/</guid>
+      <description>&lt;p&gt;&lt;img src=&#34;images/SnogbertMain.png&#34; alt=&#34;main&#34;&gt;&lt;/p&gt;&#xA;&lt;h1 id=&#34;description&#34;&gt;Description&lt;/h1&gt;&#xA;&lt;p&gt;&amp;ldquo;Legends tell of a mystical die named Snogbert&amp;hellip;&#xA;Does he have infinite sides, or only one?&amp;rdquo;&lt;/p&gt;&#xA;&lt;p&gt;&lt;em&gt;Snogbert&lt;/em&gt; is a 2D platformer with characteristics of the roguelike/roguelite and arcade genres. It stars Snogbert–a mythical infinite-sided die–and his quest to return home after falling into a cave network inhabited by other sentient dice.&lt;/p&gt;&#xA;&lt;p&gt;The game features a “die roll” system that randomly assigns the criteria to complete each level. So, while the same set of levels is traversed with each run, players are encouraged to think about them differently every time.&lt;/p&gt;</description>
+    </item>
     <item>
       <title>AD BLOCKER: An Action Puzzle Game</title>
       <link>http://localhost:1313/JustinTAlexander-AWebsite/posts/adblocker/adblocker/</link>
@@ -30,13 +37,6 @@
       <description>&lt;p&gt;&lt;img src=&#34;images/LUKEAnnouncement.png&#34; alt=&#34;main&#34;&gt;&lt;/p&gt;&#xA;&lt;h1 id=&#34;description&#34;&gt;Description&lt;/h1&gt;&#xA;&lt;p&gt;The Lipscomb University Kiosk Experience (L.U.K.E.) is a multi-screen kiosk designed to inform and engage. From answering visitor questions to providing fun, interactive experiences, this cutting-edge system showcases the power of technology in enhancing campus navigation and exploration.&lt;/p&gt;&#xA;&lt;p&gt;L.U.K.E. is built on Processing 4 Java. Work was done to integrate technologies such as Large-Language Model AI. The kiosk was deployed in Lipscomb&amp;rsquo;s Fields Engineering Center in November 2024.&lt;/p&gt;</description>
     </item>
     <item>
-      <title>Snogbert</title>
-      <link>http://localhost:1313/JustinTAlexander-AWebsite/posts/snogbert/snogbert/</link>
-      <pubDate>Fri, 26 Jan 2024 10:35:33 -0600</pubDate>
-      <guid>http://localhost:1313/JustinTAlexander-AWebsite/posts/snogbert/snogbert/</guid>
-      <description>&lt;p&gt;&lt;img src=&#34;images/SnogbertDemo.PNG&#34; alt=&#34;main&#34;&gt;&lt;/p&gt;&#xA;&lt;h1 id=&#34;description&#34;&gt;Description&lt;/h1&gt;&#xA;&lt;p&gt;&amp;ldquo;Legends tell of a mystical die named Snogbert&amp;hellip;&#xA;Does he have infinite sides, or only one?&amp;rdquo;&lt;/p&gt;&#xA;&lt;p&gt;&lt;em&gt;Snogbert&lt;/em&gt; is a 2D platformer with characteristics of the roguelike/roguelite and arcade genres. It stars Snogbert–a mythical infinite-sided die–and his quest to return home after falling into a cave network inhabited by other sentient dice.&lt;/p&gt;&#xA;&lt;p&gt;The game features a “die roll” system that randomly assigns the criteria to complete each level. So, while the same set of levels is traversed with each run, players are encouraged to think about them differently every time.&lt;/p&gt;</description>
-    </item>
-    <item>
       <title>Friday Night Funkin mods</title>
       <link>http://localhost:1313/JustinTAlexander-AWebsite/posts/fnf/fnf/</link>
       <pubDate>Mon, 11 Dec 2023 10:35:33 -0600</pubDate>
@@ -56,6 +56,13 @@
       <pubDate>Fri, 05 May 2023 10:35:33 -0600</pubDate>
       <guid>http://localhost:1313/JustinTAlexander-AWebsite/posts/datawarehouse/datawarehouse/</guid>
       <description>&lt;p&gt;&lt;img src=&#34;images/DataWarehouse.png&#34; alt=&#34;main&#34;&gt;&lt;/p&gt;&#xA;&lt;h1 id=&#34;description&#34;&gt;Description&lt;/h1&gt;&#xA;&lt;p&gt;The Lunatic Labs Data Warehouse is a data storage application developed for internal use by Lipscomb University, especially on mission trips.&lt;/p&gt;&#xA;&lt;p&gt;My work was primarily focused on the Warehouse&amp;rsquo;s user-facing interface, a library of Python functions, using JSON and Pycurl libraries to communicate with the server.&lt;/p&gt;&#xA;&lt;p&gt;Github: &lt;a href=&#34;https://github.com/Lunatic-Labs/DataWarehouse&#34;&gt;https://github.com/Lunatic-Labs/DataWarehouse&lt;/a&gt;&lt;/p&gt;&#xA;&lt;h1 id=&#34;credits&#34;&gt;Credits&lt;/h1&gt;&#xA;&lt;p&gt;Developed by the Data Dogs, a team of 8 students, as part of the course Software Studio.&lt;/p&gt;&#xA;&lt;p&gt;On this project, I am credited as:&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Hands On Nashville Mobile App Prototype</title>
+      <link>http://localhost:1313/JustinTAlexander-AWebsite/posts/handsonnashville/handsonnashville/</link>
+      <pubDate>Fri, 05 May 2023 10:35:33 -0600</pubDate>
+      <guid>http://localhost:1313/JustinTAlexander-AWebsite/posts/handsonnashville/handsonnashville/</guid>
+      <description>&lt;p&gt;&lt;img src=&#34;images/HandsOnNashville.jpg&#34; alt=&#34;BA&#34;&gt;&lt;/p&gt;&#xA;&lt;h2 id=&#34;description&#34;&gt;Description&lt;/h2&gt;&#xA;&lt;p&gt;The Hands On Nashville mobile application is a prototype that transitions the nonprofit&amp;rsquo;s website into a proof of concept that runs on mobile devices. This concept is for an app that presents the same information as the website while optimizing user experience and navigation for the mobile environment.&lt;/p&gt;&#xA;&lt;p&gt;The application is built on Adalo. It presents and manages sample databases for user information and volunteering opportunities.&lt;/p&gt;&#xA;&lt;p&gt;View the app prototype: &lt;a href=&#34;https://previewer.adalo.com/ab89d225-adc7-4c4c-9940-7588c3fc7409&#34;&gt;https://previewer.adalo.com/ab89d225-adc7-4c4c-9940-7588c3fc7409&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
       <title>Dog Dash</title>
