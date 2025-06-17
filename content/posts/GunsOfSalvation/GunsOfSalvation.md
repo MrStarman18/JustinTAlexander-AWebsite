@@ -3,7 +3,7 @@ date = '2025-05-03T10:35:33-06:00'
 draft = false
 title = 'Guns of Salvation'
 +++
-![main](/JustinTAlexander-AWebsite/images/MainCapsule.PNG)
+![main](/JustinTAlexander-AWebsite/images/GOStext.PNG)
 
 # Description
 *Guns of Salvation* is a 2.5D Metroidvania set in the realm of Lleh. It follows Iris and her journey to defeat the Seven Deadly Sins and free the cherubs trapped around the realm. It was developed using Unreal Engine 5.4.
