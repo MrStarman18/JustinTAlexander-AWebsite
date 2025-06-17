@@ -3,7 +3,7 @@ date = '2022-12-09T10:35:33-06:00'
 draft = false
 title = 'Dog Dash'
 +++
-![main](images/DogDash.png)
+![main](/JustinTAlexander-AWebsite/images/DogDash.png)
 
 # Description
 Our team of 5 received a challenge: using nothing but SFML with C++, program a fully-functional video game in one semester.
@@ -22,4 +22,4 @@ On this project, I am credited as:
 - Programmer (C++)
 - Artist
 
-![](images/DogDashExplosion.png)
+![dogsplosion](/JustinTAlexander-AWebsite/images/DogDashExplosion.png)

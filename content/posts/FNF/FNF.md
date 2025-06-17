@@ -5,7 +5,7 @@ title = 'Friday Night Funkin mods'
 +++
 Some of my earliest development projects were mods for the game Friday Night Funkin'. Find the information for each of those compiled here, in chronological order.
 
-![BA](images/BusinessAngles.jpg)
+![BA](/JustinTAlexander-AWebsite/images/BusinessAngles.jpg)
 # Business Angles: FNF Dave Mod
 
 ## Description
@@ -23,7 +23,7 @@ This mod was developed entirely independently. As such, I am credited as:
 - Story author
 
 
-![BKB](images/BKB.jpg)
+![BKB](/JustinTAlexander-AWebsite/images/BKB.jpg)
 # Bikini Bottom Funkin'
 
 ## Description
@@ -40,7 +40,7 @@ On this project, I am credited as:
 - Charter (gameplay programming)
 
 
-![FNS](images/FNS.PNG)
+![FNS](/JustinTAlexander-AWebsite/images/FNS.PNG)
 # Friday Night Spongin' || Bikini Bottom Rap Battles
 
 ## Description

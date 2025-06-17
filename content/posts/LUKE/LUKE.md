@@ -3,7 +3,7 @@ date = '2024-11-25T10:35:33-06:00'
 draft = false
 title = 'Lipscomb University Kiosk Experience'
 +++
-![main](images/LUKEAnnouncement.png)
+![main](/JustinTAlexander-AWebsite/images/LUKEAnnouncement.png)
 
 # Description
 The Lipscomb University Kiosk Experience (L.U.K.E.) is a multi-screen kiosk designed to inform and engage. From answering visitor questions to providing fun, interactive experiences, this cutting-edge system showcases the power of technology in enhancing campus navigation and exploration.

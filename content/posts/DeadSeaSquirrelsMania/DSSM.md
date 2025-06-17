@@ -3,7 +3,7 @@ date = '2023-12-09T10:35:33-06:00'
 draft = false
 title = 'Dead Sea Squirrels Mania'
 +++
-![main](images/DSSM.png)
+![main](/JustinTAlexander-AWebsite/images/DSSM.png)
 
 # Description
 *DSSM* is a basket-catcher game prototype created in collaboration with the creators of the *Dead Sea Squirrels* television show/book series. It was designed with the pitch of creating a mobile game based on the series. 

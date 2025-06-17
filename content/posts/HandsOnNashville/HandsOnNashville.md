@@ -3,7 +3,7 @@ date = '2023-05-05T10:35:33-06:00'
 draft = false
 title = 'Hands On Nashville Mobile App Prototype'
 +++
-![BA](images/HandsOnNashville.jpg)
+![BA](/JustinTAlexander-AWebsite/images/HandsOnNashville.jpg)
 ## Description
 The Hands On Nashville mobile application is a prototype that transitions the nonprofit's website into a proof of concept that runs on mobile devices. This concept is for an app that presents the same information as the website while optimizing user experience and navigation for the mobile environment. 
 
