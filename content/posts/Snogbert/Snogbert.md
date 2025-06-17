@@ -6,7 +6,7 @@ title = 'Snogbert'
 ![main](/JustinTAlexander-AWebsite/images/SnogbertMain.png)
 
 # Description
-"Legends tell of a mystical die named Snogbert...
+"Legends tell of a die named Snogbert...
 Does he have infinite sides, or only one?"
 
 *Snogbert* is a 2D platformer with characteristics of the roguelike/roguelite and arcade genres. It stars Snogbert–a mythical infinite-sided die–and his quest to return home after falling into a cave network inhabited by other sentient dice. 
