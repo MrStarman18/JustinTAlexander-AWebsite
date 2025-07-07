@@ -45,4 +45,4 @@ My experience with L.U.K.E. taught me much about leadership and project manageme
 
 Going through the full development cycle was neither easy nor straightforward, but both my team and our "clients" were happy with the fruits of our labor. I feel that leading the kiosk team allowed me to grow as a leader and developer, as well as giving me the confidence to attempt personal projects.
 
-![logo](JustinTAlexander-AWebsite/images/LUKELogo.jpg)
+![logo](/JustinTAlexander-AWebsite/images/LUKELogo.jpg)
