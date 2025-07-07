@@ -7,11 +7,10 @@
     <title>AD BLOCKER: An Action Puzzle Game | Justin T. Alexander: A Website</title>
     <meta name="viewport" content="width=device-width,minimum-scale=1">
     <meta name="description" content="
-
 Description
 AD BLOCKER is a fast-paced match-3 puzzler that’s built for head-to-head gameplay between 0-2 players. It was developed using Godot Engine 4 and released to Steam on 2/28/2025.
 AD BLOCKER features grid-based gravity and a unique linear garbage system. With a low skill floor and high skill ceiling, everyone will be able to play at their own pace. So whether you’re new to the action puzzle scene or a long-time genre fan of games like Panel de Pon and TETRIS, AD BLOCKER has something for you!">
-    <meta name="generator" content="Hugo 0.147.8">
+    <meta name="generator" content="Hugo 0.147.9">
     
     
     
@@ -45,15 +44,15 @@ AD BLOCKER features grid-based gravity and a unique linear garbage system. With 
   <meta property="og:locale" content="en_us">
   <meta property="og:type" content="article">
     <meta property="article:section" content="posts">
-    <meta property="article:published_time" content="2025-02-28T10:35:33-06:00">
-    <meta property="article:modified_time" content="2025-02-28T10:35:33-06:00">
+    <meta property="article:published_time" content="2025-06-19T10:35:33-06:00">
+    <meta property="article:modified_time" content="2025-06-19T10:35:33-06:00">
 
   <meta itemprop="name" content="AD BLOCKER: An Action Puzzle Game">
   <meta itemprop="description" content="Description AD BLOCKER is a fast-paced match-3 puzzler that’s built for head-to-head gameplay between 0-2 players. It was developed using Godot Engine 4 and released to Steam on 2/28/2025.
 AD BLOCKER features grid-based gravity and a unique linear garbage system. With a low skill floor and high skill ceiling, everyone will be able to play at their own pace. So whether you’re new to the action puzzle scene or a long-time genre fan of games like Panel de Pon and TETRIS, AD BLOCKER has something for you!">
-  <meta itemprop="datePublished" content="2025-02-28T10:35:33-06:00">
-  <meta itemprop="dateModified" content="2025-02-28T10:35:33-06:00">
-  <meta itemprop="wordCount" content="140">
+  <meta itemprop="datePublished" content="2025-06-19T10:35:33-06:00">
+  <meta itemprop="dateModified" content="2025-06-19T10:35:33-06:00">
+  <meta itemprop="wordCount" content="953">
   <meta name="twitter:card" content="summary">
   <meta name="twitter:title" content="AD BLOCKER: An Action Puzzle Game">
   <meta name="twitter:description" content="Description AD BLOCKER is a fast-paced match-3 puzzler that’s built for head-to-head gameplay between 0-2 players. It was developed using Godot Engine 4 and released to Steam on 2/28/2025.
@@ -103,14 +102,13 @@ AD BLOCKER features grid-based gravity and a unique linear garbage system. With 
       
       
       
-      <time class="f6 mv4 dib tracked" datetime="2025-02-28T10:35:33-06:00">February 28, 2025</time>
+      <time class="f6 mv4 dib tracked" datetime="2025-06-19T10:35:33-06:00">June 19, 2025</time>
       
 
       
       
     </header>
-    <div class="nested-copy-line-height lh-copy serif f4 nested-links mid-gray pr4-l w-two-thirds-l"><h1 id="main"><img src="images/MainCapsule.PNG" alt="main"></h1>
-<p><img src="JustinTAlexander-AWebsite/images/MainCapsule.PNG" alt="mainv2"></p>
+    <div class="nested-copy-line-height lh-copy serif f4 nested-links mid-gray pr4-l w-two-thirds-l"><p><img src="/JustinTAlexander-AWebsite/images/MainCapsule.PNG" alt="main"></p>
 <h1 id="description">Description</h1>
 <p><em>AD BLOCKER</em> is a fast-paced match-3 puzzler that’s built for head-to-head gameplay between 0-2 players. It was developed using Godot Engine 4 and released to Steam on 2/28/2025.</p>
 <p><em>AD BLOCKER</em> features grid-based gravity and a unique linear garbage system. With a low skill floor and high skill ceiling, everyone will be able to play at their own pace. So whether you’re new to the action puzzle scene or a long-time genre fan of games like <em>Panel de Pon</em> and <em>TETRIS</em>, <em>AD BLOCKER</em> has something for you!</p>
@@ -125,9 +123,38 @@ Find it on Steam: <a href="https://store.steampowered.com/app/3187360/AD_BLOCKER
 <li>Musician</li>
 <li>Character Designer</li>
 <li>Story Author</li>
-<li>Artist</li>
+<li>Artist
+as well as managing the game&rsquo;s two rounds of playtesting and its social media presence (under my personal account @/MrStarman18).</li>
 </ul>
-<p><img src="images/LibraryCapsule.PNG" alt="lib"></p>
+<h1 id="design">Design</h1>
+<h2 id="gameplay">Gameplay</h2>
+<p><img src="/JustinTAlexander-AWebsite/images/ADBLOCKER_MatchEntityDiagram.jpg" alt="MatchEntity">
+Each match of <em>AD BLOCKER</em> revolves around the two player boards and their interactions with one another. The BoardManager class oversees this. In addition to tracking overarching values such as game speed and selected characters, it also passes signals such as input and incoming garbage down to each Board. However, to the BoardManager, a Board is a black box.</p>
+<p>The Board class tracks the state of the player grid, especially the locations and statuses of each Block therein. When it receives signals from the Board Manager, it handles interactions with the Block(s) and Cursor objects that are associated with it.</p>
+<p>The following is an early concept for how Blocks travel between the two Boards, later dubbed &ldquo;Linear Garbage&rdquo;.
+<img src="/JustinTAlexander-AWebsite/images/ADBLOCKER_BlockMovementConcept.gif" alt="BlockConcept"></p>
+<h2 id="cpu-player">CPU Player</h2>
+<p><img src="/JustinTAlexander-AWebsite/images/ADBLOCKER_CPUFlowDiagram.jpg" alt="CPU">
+As advertised, <em>AD BLOCKER</em> is playable by 0-2 players and heavily features a single-player Story Mode. Thus, a computer player that could provide both challenge and fairness was needed. We decided that such a CPU should have the following goals:</p>
+<ul>
+<li>Make swaps that are worth more points (gain score)</li>
+<li>Make swaps that keep its board from overflowing (survive)</li>
+</ul>
+<p>The first goal is achieved using a priority queue that ranks all swaps available. A swap is scored based on the location that each of its two Blocks will be in afterward; that is, looking ahead to account for gravity.</p>
+<p>The CPU&rsquo;s second goal of survival is achieved in two ways. First, a swap&rsquo;s priority increases the further away it is from the Board&rsquo;s center. Second, when a Block enters the furthest two spaces from the Board&rsquo;s center, any swap that brings it closer is immediately made top priority. Both solutions outrank any score-based match that would&rsquo;ve been at the head of the queue, simulating the sense of urgency that a real player would experience.</p>
+<h2 id="menu-ui">Menu UI</h2>
+<p><img src="/JustinTAlexander-AWebsite/images/ADBLOCKER_MenuFlowDiagram.jpg" alt="MenuFlow">
+<em>AD BLOCKER</em>&rsquo;s menus aim to replicate the simplicity of similar arcade titles, striking the balance between a stylized experience and one that takes the shortest amount of time to start a game.</p>
+<h1 id="postmortem-authored-62025">Postmortem (authored 6/2025)</h1>
+<p>This past semester, I had my first experiences successfully deploying software projects as a team lead. Today, I offer a retrospective on AD BLOCKER: An Action Puzzle Game, which I released to Steam on 2/28/2025 and am currently providing bugfixes for as issues are reported.</p>
+<p>We began active development in February 2024 as a team of three with the goal of finishing the game in a year. One year later, we met this goal as a team of two (myself and an artist), with one contract SFX author.</p>
+<p>AD BLOCKER was a fully indie project, with the narrative and asset direction stemming from a premise I&rsquo;d long held onto (&ldquo;A game show where the contestants are based on commercials!&rdquo;). From a gameplay approach, we wanted to create a puzzle game that&rsquo;s optimized for head-to-head gameplay by maximizing how the players&rsquo; actions affect one another.
+Toward this end, the earliest element we designed as a team was its &ldquo;Linear Garbage&rdquo; system, which contrasted garbage systems in many other genre entries (internally called &ldquo;Exponential Garbage&rdquo;). This choice and its consequences led to many other unique features of AD BLOCKER, such as its stricter adhesion to grid-based movement, its center hold area being shared by both players, and its time measurement being explicitly in ticks rather than seconds.</p>
+<p>From a marketing perspective, the game was a lesson on highlighting these unique elements. I won&rsquo;t deny that there are several similar games for sale, many of which also pull inspiration from Tetris Attack. Our design took pains to make AD BLOCKER unlike its competitors, but the challenge came with presenting why any of these differences would be tangibly valuable to a player.</p>
+<p>On the other hand, a marketing win came from my organization of the Action Puzzle Bundle, a collaborative Steam bundle between our game and 4 others in the same genre. This allowed me to speak with like-minded developers, both those who had long been established and those who were releasing as close as weeks before we were.</p>
+<p>At a personal level, AD BLOCKER is something near to me. I consider it a testament to all I&rsquo;ve learned about game design and the balance between creativity and scope. With only self-imposed deadlines to keep us accountable, I&rsquo;m proud of what we were able to produce.</p>
+<p>Ultimately, I&rsquo;m happy to have been able to stay with the project from concept to release. While design decisions were made as a team, I feel that my personal touch is uniquely present in every aspect of AD BLOCKER&rsquo;s identity. I was there when we decided on its colorful TV aesthetic, its funk-inspired sound, the voices and motivations for each character, the logic behind its CPU players, and everything in between. The experience was one I won&rsquo;t soon forget.</p>
+<p><img src="/JustinTAlexander-AWebsite/images/LibraryCapsule.PNG" alt="lib"></p>
 <ul class="pa0">
   
 </ul>

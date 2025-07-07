@@ -1,0 +1,2 @@
+As reference shorthand, this should be the format for adding images:
+![displayname](JustinTAlexander-AWebsite/images/{filename}.{ext})

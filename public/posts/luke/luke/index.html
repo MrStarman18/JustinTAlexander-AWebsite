@@ -10,7 +10,7 @@
 Description
 The Lipscomb University Kiosk Experience (L.U.K.E.) is a multi-screen kiosk designed to inform and engage. From answering visitor questions to providing fun, interactive experiences, this cutting-edge system showcases the power of technology in enhancing campus navigation and exploration.
 L.U.K.E. is built on Processing 4 Java. Work was done to integrate technologies such as Large-Language Model AI. The kiosk was deployed in Lipscomb&rsquo;s Fields Engineering Center in November 2024.">
-    <meta name="generator" content="Hugo 0.147.8">
+    <meta name="generator" content="Hugo 0.147.9">
     
     
     
@@ -44,15 +44,15 @@ L.U.K.E. is built on Processing 4 Java. Work was done to integrate technologies 
   <meta property="og:locale" content="en_us">
   <meta property="og:type" content="article">
     <meta property="article:section" content="posts">
-    <meta property="article:published_time" content="2024-11-25T10:35:33-06:00">
-    <meta property="article:modified_time" content="2024-11-25T10:35:33-06:00">
+    <meta property="article:published_time" content="2025-06-20T10:35:33-06:00">
+    <meta property="article:modified_time" content="2025-06-20T10:35:33-06:00">
 
   <meta itemprop="name" content="Lipscomb University Kiosk Experience">
   <meta itemprop="description" content="Description The Lipscomb University Kiosk Experience (L.U.K.E.) is a multi-screen kiosk designed to inform and engage. From answering visitor questions to providing fun, interactive experiences, this cutting-edge system showcases the power of technology in enhancing campus navigation and exploration.
 L.U.K.E. is built on Processing 4 Java. Work was done to integrate technologies such as Large-Language Model AI. The kiosk was deployed in Lipscomb’s Fields Engineering Center in November 2024.">
-  <meta itemprop="datePublished" content="2024-11-25T10:35:33-06:00">
-  <meta itemprop="dateModified" content="2024-11-25T10:35:33-06:00">
-  <meta itemprop="wordCount" content="114">
+  <meta itemprop="datePublished" content="2025-06-20T10:35:33-06:00">
+  <meta itemprop="dateModified" content="2025-06-20T10:35:33-06:00">
+  <meta itemprop="wordCount" content="625">
   <meta name="twitter:card" content="summary">
   <meta name="twitter:title" content="Lipscomb University Kiosk Experience">
   <meta name="twitter:description" content="Description The Lipscomb University Kiosk Experience (L.U.K.E.) is a multi-screen kiosk designed to inform and engage. From answering visitor questions to providing fun, interactive experiences, this cutting-edge system showcases the power of technology in enhancing campus navigation and exploration.
@@ -102,13 +102,13 @@ L.U.K.E. is built on Processing 4 Java. Work was done to integrate technologies 
       
       
       
-      <time class="f6 mv4 dib tracked" datetime="2024-11-25T10:35:33-06:00">November 25, 2024</time>
+      <time class="f6 mv4 dib tracked" datetime="2025-06-20T10:35:33-06:00">June 20, 2025</time>
       
 
       
       
     </header>
-    <div class="nested-copy-line-height lh-copy serif f4 nested-links mid-gray pr4-l w-two-thirds-l"><p><img src="images/LUKEAnnouncement.png" alt="main"></p>
+    <div class="nested-copy-line-height lh-copy serif f4 nested-links mid-gray pr4-l w-two-thirds-l"><p><img src="/JustinTAlexander-AWebsite/images/LUKEAnnouncement.png" alt="main"></p>
 <h1 id="description">Description</h1>
 <p>The Lipscomb University Kiosk Experience (L.U.K.E.) is a multi-screen kiosk designed to inform and engage. From answering visitor questions to providing fun, interactive experiences, this cutting-edge system showcases the power of technology in enhancing campus navigation and exploration.</p>
 <p>L.U.K.E. is built on Processing 4 Java. Work was done to integrate technologies such as Large-Language Model AI. The kiosk was deployed in Lipscomb&rsquo;s Fields Engineering Center in November 2024.</p>
@@ -120,6 +120,25 @@ L.U.K.E. is built on Processing 4 Java. Work was done to integrate technologies 
 <li>Team lead</li>
 <li>Programmer (Python, Java)</li>
 </ul>
+<h1 id="design">Design</h1>
+<h2 id="class-structure">Class Structure</h2>
+<p><img src="/JustinTAlexander-AWebsite/images/LUKE_ClassStructure_UML.png" alt="classUML">
+L.U.K.E. was designed as a modification of the observer pattern in which a list of Scenes (observers) is kept up by the class DisplayManager (subject). At the top level, the Processing 4 library is used to receive user input.</p>
+<h2 id="data-flow">Data Flow</h2>
+<p><img src="/JustinTAlexander-AWebsite/images/LUKE_DataFlow_UML.png" alt="dataFlowUML">
+L.U.K.E. sought to be as accessible as possible to its owners/maintainers, who were expected to be university officials without Computer Science backgrounds. As such, it was designed to interface directly with the Windows file system.
+Information pertaining to many aspects of the kiosk&rsquo;s functionality is formatted into .txt files that are stored alongside the code. This allows the system to be easily updated if a new department or building wishes to house L.U.K.E..</p>
+<h1 id="postmortem-authored-62025">Postmortem (authored 6/2025)</h1>
+<p>This past school year, I had my first experiences successfully deploying software projects as a team lead. Today, I offer a retrospective on the Lipscomb University Kiosk Experience, or L.U.K.E..
+This kiosk was developed as part of Lipscomb University SoC&rsquo;s Software Studio course, which simulates an Agile software development environment with one-week sprints tracked via Jira and a &ldquo;client&rdquo; within the school&rsquo;s faculty.
+I spent three semesters as the team lead on L.U.K.E., in which 5 iterations of the software were created.</p>
+<p>In the first, my team started from full greenfield and went on to design and create the first prototype of the system. L.U.K.E. was created using the Processing 4 software. Our first iteration was completed in Python, but it was later ported to Java to make use of Processing&rsquo;s video libraries. This build was focused on functionality over form, but we were able to create an effective and functional proof of concept.</p>
+<p>In our second semester, we expanded on this concept through several rounds of incremental progress, bugfixes, and scripted field tests. We met our goal of deployment in November 2024 when L.U.K.E. Iteration 4 was stationed in the Fields Engineering Center, where he stands today.
+Our two graduating team members were replaced by new faces this semester, highlighting the importance of documentation and effective onboarding.</p>
+<p>My last semester with L.U.K.E. was focused entirely on maintenance and documentation, so only myself and one of the junior devs remained on the project. I authored an Owners&rsquo; Manual in addition to the Programmers&rsquo; Manual that had been in use by the team. By leveraging the two, we addressed everything related to the kiosk&rsquo;s user-facing operations/maintenance and our team&rsquo;s development processes, respectively.</p>
+<p>My experience with L.U.K.E. taught me much about leadership and project management. Our Agile environment utilized frequent standups, both within my team and across the &ldquo;company&rdquo;. This required technical ability, code literacy, and understanding of project goals, but it also highlighted the importance of &ldquo;soft skills&rdquo; such as public speaking and being able to answer tough questions.</p>
+<p>Going through the full development cycle was neither easy nor straightforward, but both my team and our &ldquo;clients&rdquo; were happy with the fruits of our labor. I feel that leading the kiosk team allowed me to grow as a leader and developer, as well as giving me the confidence to attempt personal projects.</p>
+<p><img src="JustinTAlexander-AWebsite/images/LUKELogo.jpg" alt="logo"></p>
 <ul class="pa0">
   
 </ul>
