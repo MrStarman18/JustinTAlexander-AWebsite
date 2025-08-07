@@ -13,7 +13,7 @@
       <link>http://localhost:1313/JustinTAlexander-AWebsite/posts/snogbert/snogbert/</link>
       <pubDate>Mon, 07 Jul 2025 10:35:33 -0600</pubDate>
       <guid>http://localhost:1313/JustinTAlexander-AWebsite/posts/snogbert/snogbert/</guid>
-      <description>&lt;p&gt;&lt;img src=&#34;http://localhost:1313/JustinTAlexander-AWebsite/images/SnogbertMain.png&#34; alt=&#34;main&#34;&gt;&lt;/p&gt;&#xA;&lt;h1 id=&#34;description&#34;&gt;Description&lt;/h1&gt;&#xA;&lt;p&gt;&amp;ldquo;Legends tell of a die named Snogbert&amp;hellip;&#xA;Does he have infinite sides, or only one?&amp;rdquo;&lt;/p&gt;&#xA;&lt;p&gt;&lt;em&gt;Snogbert&lt;/em&gt; is a 2D platformer with characteristics of the roguelike/roguelite and arcade genres. It stars Snogbert–a mythical infinite-sided die–and his quest to return home after falling into a cave network inhabited by other sentient dice.&lt;/p&gt;&#xA;&lt;p&gt;The game features a “die roll” system that randomly assigns the criteria to complete each level. So, while the same set of levels is traversed with each run, players are encouraged to think about them differently every time.&lt;/p&gt;</description>
+      <description>&lt;p&gt;&lt;img src=&#34;http://localhost:1313/JustinTAlexander-AWebsite/images/SnogbertMain.png&#34; alt=&#34;main&#34;&gt;&lt;/p&gt;&#xA;&lt;h1 id=&#34;description&#34;&gt;Description&lt;/h1&gt;&#xA;&lt;p&gt;&amp;ldquo;Legends tell of a die named Snogbert&amp;hellip;&#xA;Does he have infinite sides, or only one?&amp;rdquo;&lt;/p&gt;&#xA;&lt;p&gt;&lt;em&gt;Snogbert&lt;/em&gt; is a 2D platformer with characteristics of the roguelike/roguelite and arcade genres. It stars Snogbert–a mythical infinite-sided die–and his quest to return home after falling into a cave network inhabited by other sentient dice.&lt;/p&gt;&#xA;&lt;p&gt;The game features a “die roll” system that randomly assigns the criteria to complete each level. So, while a similar set of levels is traversed with each run, players are encouraged to think about them differently every time.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Lipscomb University Kiosk Experience</title>
@@ -23,18 +23,18 @@
       <description>&lt;p&gt;&lt;img src=&#34;http://localhost:1313/JustinTAlexander-AWebsite/images/LUKEAnnouncement.png&#34; alt=&#34;main&#34;&gt;&lt;/p&gt;&#xA;&lt;h1 id=&#34;description&#34;&gt;Description&lt;/h1&gt;&#xA;&lt;p&gt;The Lipscomb University Kiosk Experience (L.U.K.E.) is a multi-screen kiosk designed to inform and engage. From answering visitor questions to providing fun, interactive experiences, this cutting-edge system showcases the power of technology in enhancing campus navigation and exploration.&lt;/p&gt;&#xA;&lt;p&gt;L.U.K.E. is built on Processing 4 Java. Work was done to integrate technologies such as Large-Language Model AI. The kiosk was deployed in Lipscomb&amp;rsquo;s Fields Engineering Center in November 2024.&lt;/p&gt;</description>
     </item>
     <item>
+      <title>AD BLOCKER: An Action Puzzle Game</title>
+      <link>http://localhost:1313/JustinTAlexander-AWebsite/posts/adblocker/adblocker/</link>
+      <pubDate>Thu, 19 Jun 2025 10:35:33 -0600</pubDate>
+      <guid>http://localhost:1313/JustinTAlexander-AWebsite/posts/adblocker/adblocker/</guid>
+      <description>&lt;p&gt;&lt;img src=&#34;http://localhost:1313/JustinTAlexander-AWebsite/images/MainCapsule.PNG&#34; alt=&#34;main&#34;&gt;&lt;/p&gt;&#xA;&lt;h1 id=&#34;description&#34;&gt;Description&lt;/h1&gt;&#xA;&lt;p&gt;&lt;em&gt;AD BLOCKER&lt;/em&gt; is a fast-paced match-3 puzzler that’s built for head-to-head gameplay between 0-2 players. It was developed using Godot Engine 4 and released to Steam on 2/28/2025.&lt;/p&gt;&#xA;&lt;p&gt;&lt;em&gt;AD BLOCKER&lt;/em&gt; features grid-based gravity and a unique linear garbage system. With a low skill floor and high skill ceiling, everyone will be able to play at their own pace. So whether you’re new to the action puzzle scene or a long-time genre fan of games like &lt;em&gt;Panel de Pon&lt;/em&gt; and &lt;em&gt;TETRIS&lt;/em&gt;, &lt;em&gt;AD BLOCKER&lt;/em&gt; has something for you!&lt;/p&gt;</description>
+    </item>
+    <item>
       <title>Guns of Salvation</title>
       <link>http://localhost:1313/JustinTAlexander-AWebsite/posts/gunsofsalvation/gunsofsalvation/</link>
       <pubDate>Sat, 03 May 2025 10:35:33 -0600</pubDate>
       <guid>http://localhost:1313/JustinTAlexander-AWebsite/posts/gunsofsalvation/gunsofsalvation/</guid>
       <description>&lt;p&gt;&lt;img src=&#34;http://localhost:1313/JustinTAlexander-AWebsite/images/GOStext.png&#34; alt=&#34;main&#34;&gt;&lt;/p&gt;&#xA;&lt;h1 id=&#34;description&#34;&gt;Description&lt;/h1&gt;&#xA;&lt;p&gt;&lt;em&gt;Guns of Salvation&lt;/em&gt; is a 2.5D Metroidvania set in the realm of Lleh. It follows Iris and her journey to defeat the Seven Deadly Sins and free the cherubs trapped around the realm. It was developed using Unreal Engine 5.4.&lt;/p&gt;&#xA;&lt;p&gt;I was brought on to this project to design and implement the three boss fights that are featured in its spring demo: Sloth, Gluttony, and Wrath. This involved frequent meetings with the team&amp;rsquo;s leads, weekly progress reports, and coherent design documentation.&lt;/p&gt;</description>
-    </item>
-    <item>
-      <title>AD BLOCKER: An Action Puzzle Game</title>
-      <link>http://localhost:1313/JustinTAlexander-AWebsite/posts/adblocker/adblocker/</link>
-      <pubDate>Fri, 28 Feb 2025 10:35:33 -0600</pubDate>
-      <guid>http://localhost:1313/JustinTAlexander-AWebsite/posts/adblocker/adblocker/</guid>
-      <description>&lt;p&gt;&lt;img src=&#34;http://localhost:1313/JustinTAlexander-AWebsite/images/MainCapsule.PNG&#34; alt=&#34;main&#34;&gt;&lt;/p&gt;&#xA;&lt;h1 id=&#34;description&#34;&gt;Description&lt;/h1&gt;&#xA;&lt;p&gt;&lt;em&gt;AD BLOCKER&lt;/em&gt; is a fast-paced match-3 puzzler that’s built for head-to-head gameplay between 0-2 players. It was developed using Godot Engine 4 and released to Steam on 2/28/2025.&lt;/p&gt;&#xA;&lt;p&gt;&lt;em&gt;AD BLOCKER&lt;/em&gt; features grid-based gravity and a unique linear garbage system. With a low skill floor and high skill ceiling, everyone will be able to play at their own pace. So whether you’re new to the action puzzle scene or a long-time genre fan of games like &lt;em&gt;Panel de Pon&lt;/em&gt; and &lt;em&gt;TETRIS&lt;/em&gt;, &lt;em&gt;AD BLOCKER&lt;/em&gt; has something for you!&lt;/p&gt;</description>
     </item>
     <item>
       <title>Dungeons and Donuts</title>
