@@ -6,7 +6,7 @@ title = 'Home'
 
 ![pfp](logo.png)
 
-Justin T. Alexander is a Software Engineering graduate from Lipscomb University and an independent video game developer. His skills include programming (C/C++, C#, Java, Python), game design, game development (Unreal, Godot), music composition, and pixel art/animation.
+Justin T. Alexander is an independent video game developer. His skills include programming (C/C++, C#, Java, Python), game design, game development (Unreal, Godot), music composition (Reaper), and pixel art/animation (Aseprite).
 
 He has been part of several technical projects, cultivating skills from each stage of the software/game development life cycles as well as leadership and team management. 
 This website details Justin's projects, and it will provide external links to them where applicable.
