@@ -1,5 +1,5 @@
 +++
-date = '2025-07-07T10:35:33-06:00'
+date = '2026-08-12T10:35:33-06:00'
 draft = false
 title = 'Snogbert'
 +++
@@ -9,7 +9,7 @@ title = 'Snogbert'
 "Legends tell of a die named Snogbert...
 Does he have infinite sides, or only one?"
 
-*Snogbert* is a 2D platformer with characteristics of the roguelike/roguelite and arcade genres. It stars Snogbert–a mythical infinite-sided die–and his quest to return home after falling into a cave network inhabited by other sentient dice. 
+*Snogbert* is a 2D platformer with characteristics of the roguelike/roguelite and arcade genres. It stars Snogbert–a mythical infinite-sided die–and his quest to return home after falling into a cave network inhabited by other sentient dice. *Snogbert* was developed using Unreal Engine 5.4. 
 
 The game features a “die roll” system that randomly assigns the criteria to complete each level. So, while a similar set of levels is traversed with each run, players are encouraged to think about them differently every time. 
 
