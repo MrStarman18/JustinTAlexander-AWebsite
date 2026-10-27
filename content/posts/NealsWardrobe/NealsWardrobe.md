@@ -18,7 +18,7 @@ On this project, I am credited as:
 - Game Designer
 
 # Design
-# Inventory Management
+## Inventory Management
 The largest hurdle for this project was creating a system for inventory management, indexing, and storage to file that would remain scalable through a number of planned post-launch content updates.
 
 I utilized the Unreal-native Data Tables and Structs to store information that remains constant at runtime (such as a list of all available clothing items).
@@ -27,7 +27,7 @@ This information is kept as lightweight Structs until an event occurs that trans
 
 In this way, *Neal's Wardrobe* maintains the exact number of active actors that it needs at any given time without the risk of performance issues from spawning/despawning them. New items, events, and more are able to be added seamlessly by any team member by simply modifying the respective Data Tables.
 
-# Outfit Scoring
+## Outfit Scoring
 As I designed the event system for *Neal's Wardrobe*, a point of contention arose when deciding how to objectively score an outfit. There are many points that could be graded on, but which would resonate most with players' expectations and with the intended feel for this game? 
  
 Our final system utilizes the following points on its scoring rubric:
